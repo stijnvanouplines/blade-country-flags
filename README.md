@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://github.com/stijnvanouplines/blade-country-flags/raw/master/socialcard-blade-country-flags.png" width="1280" title="Social Card Blade Country Flags">
+</p>
+
 # Blade Country Flags
 
 <a href="https://github.com/stijnvanouplines/blade-country-flags/actions?query=workflow%3ATests">
