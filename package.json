@@ -1,0 +1,6 @@
+{
+    "private": true,
+    "devDependencies": {
+        "flag-icon-css": "^3.5.0"
+    }
+}
