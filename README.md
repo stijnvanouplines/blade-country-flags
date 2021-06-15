@@ -1,5 +1,18 @@
 # Blade Country Flags
 
+<a href="https://github.com/stijnvanouplines/blade-country-flags/actions?query=workflow%3ATests">
+    <img src="https://github.com/stijnvanouplines/blade-country-flags/workflows/Tests/badge.svg" alt="Tests">
+</a>
+<a href="https://github.styleci.io/repos/377258849">
+    <img src="https://github.styleci.io/repos/377258849/shield?style=flat" alt="Code Style">
+</a>
+<a href="https://packagist.org/packages/stijnvanouplines/blade-country-flags">
+    <img src="https://img.shields.io/packagist/v/stijnvanouplines/blade-country-flags" alt="Latest Stable Version">
+</a>
+<a href="https://packagist.org/packages/stijnvanouplines/blade-country-flags">
+    <img src="https://img.shields.io/packagist/dt/stijnvanouplines/blade-country-flags" alt="Total Downloads">
+</a>
+
 A package to easily make use of country flags in your Laravel Blade views.
 
 This package is using SVG flags provided by [flag-icon-css](https://github.com/lipis/flag-icon-css). All credits go to this project and all of it's creators.
