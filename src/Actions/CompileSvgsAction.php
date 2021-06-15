@@ -14,12 +14,12 @@ class CompileSvgsAction
     private $svgOutputDirectory;
     /** @var array */
     protected $replacePatterns = [
-        '/\s(id=\"[a-zA-Z0-9-_]+\")/' => '',
+        '/\s(id=\"[a-zA-Z0-9-_]+\")/'           => '',
         '/\s(style=\"[a-z\s\-\\;:A-Z0-9_]+\")/' => '',
-        '/\s(class=\"[a-zA-Z0-9]+\")/' => '',
-        '/\s(height=\"[0-9]+\")/' => '',
-        '/\s(width=\"[0-9]+\")/' => '',
-        '/\<\?xml.*\?\>/' => '',
+        '/\s(class=\"[a-zA-Z0-9]+\")/'          => '',
+        '/\s(height=\"[0-9]+\")/'               => '',
+        '/\s(width=\"[0-9]+\")/'                => '',
+        '/\<\?xml.*\?\>/'                       => '',
     ];
 
     public function __construct(string $svgStyle, string $svgDirectory, string $svgOutputDirectory)
@@ -32,7 +32,7 @@ class CompileSvgsAction
     public function execute(): void
     {
         foreach (new DirectoryIterator($this->svgDirectory) as $svg) {
-            if (! $svg->isFile() || $svg->getExtension() !== 'svg') {
+            if (!$svg->isFile() || $svg->getExtension() !== 'svg') {
                 continue;
             }
 
