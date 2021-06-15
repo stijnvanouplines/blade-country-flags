@@ -2,8 +2,8 @@
 
 namespace StijnVanouplines\BladeCountryFlags\Tests;
 
-use Orchestra\Testbench;
 use BladeUI\Icons\BladeIconsServiceProvider;
+use Orchestra\Testbench;
 use StijnVanouplines\BladeCountryFlags\BladeCountryFlagsServiceProvider;
 
 class TestCase extends Testbench\TestCase

@@ -5,8 +5,8 @@ declare(strict_types=1);
 namespace StijnVanouplines\BladeCountryFlags;
 
 use BladeUI\Icons\Factory;
-use Illuminate\Support\ServiceProvider;
 use Illuminate\Contracts\Container\Container;
+use Illuminate\Support\ServiceProvider;
 
 final class BladeCountryFlagsServiceProvider extends ServiceProvider
 {
