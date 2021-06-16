@@ -52,7 +52,7 @@ Flags can be used as self-closing Blade components which will be compiled to SVG
 <x-flag-4x3-be/>
 ```
 
-You can also pass classes to your icon components:
+You can also pass classes to your flag components:
 
 ```blade
 <x-flag-4x3-be class="w-6"/>
