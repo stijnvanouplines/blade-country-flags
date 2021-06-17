@@ -86,7 +86,7 @@
       <use width="744.1" height="1052.4" transform="rotate(-10 275 690.3)" xlink:href="#e"/>
       <use width="744.1" height="1052.4" transform="rotate(10 225.4 653.9)" xlink:href="#f"/>
     </g>
-    <use transform="matrix(-1 0 0 1 840 .1)" xlink:href="#g"/>
+    <use width="1" height="1" transform="matrix(-1 0 0 1 840 .1)" xlink:href="#g"/>
   </g>
   <g stroke="#d4af37" stroke-width=".5">
     <path fill="#007ea8" d="M291 195.6l-14 17.5a26.2 26.2 0 017.3 17.9 53.7 53.7 0 01-2.8 17.5v.2H320V196c-8.5 5.2-20.1 7.3-29-.4z"/>

@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 480">
   <defs>
     <clipPath>
-      <rect height="420.1" x="1.9" y=".1" fill="#00f" fill-rule="evenodd" ry="0"/>
+      <rect width="546" height="420.1" x="1.9" y=".1" fill="#00f" fill-rule="evenodd" ry="0"/>
     </clipPath>
   </defs>
   <g clip-path="url(#zw-a)" transform="matrix(1.1722 0 0 1.1426 -2.3 -.1)">
