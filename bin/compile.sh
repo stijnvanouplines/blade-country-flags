@@ -12,7 +12,7 @@ echo "Compiling Flag Icons..."
 for STYLE in "${STYLES[@]}"; do
     ICONS_DIR="${ICONS_ROOT}/${STYLE}"
 
-    php -r "require __DIR__.'/src/Actions/CompileSvgsAction.php'; (new \StijnVanouplines\BladeCountryFlags\Actions\CompileSvgsAction('${STYLE}', '${ICONS_DIR}', '${RESOURCES_ROOT}'))->execute();"
+    php -r "require __DIR__.'/../src/Actions/CompileSvgsAction.php'; (new \StijnVanouplines\BladeCountryFlags\Actions\CompileSvgsAction('${STYLE}', '${ICONS_DIR}', '${RESOURCES_ROOT}'))->execute();"
 done
 
 echo "All done!"
