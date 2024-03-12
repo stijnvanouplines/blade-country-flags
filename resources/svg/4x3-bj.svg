@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="flag-icons-bj" viewBox="0 0 640 480">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480">
   <defs>
-    <clipPath id="bj-a">
+    <clipPath>
       <path fill="gray" d="M67.6-154h666v666h-666z"/>
     </clipPath>
   </defs>
