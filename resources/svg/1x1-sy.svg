@@ -1,6 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <rect width="512" height="170.7" y="170.7" fill="#fff" fill-rule="evenodd" rx="0" ry="0"/>
-  <rect width="512" height="170.7" y="341.3" fill-rule="evenodd" rx="0" ry="0"/>
-  <path fill="red" fill-rule="evenodd" d="M0 0h512v170.7H0z"/>
-  <path fill="#090" fill-rule="evenodd" d="M151.4 299.7l-30.8-22.2L90 300l11.4-36.6L70.9 241l37.8-.3 11.7-36.5 12 36.4H170l-30.4 22.8 11.7 36.4zm285.4 0l-30.7-22.2-30.6 22.5 11.4-36.6-30.5-22.5 37.7-.3 11.7-36.5 12 36.4h37.8l-30.4 22.8 11.6 36.4z"/>
+<svg viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Top stripe (fills to top edge) -->
+  <rect x="0" y="0" width="512" height="185" fill="#007A3D"/>
+  
+  <!-- Middle stripe -->
+  <rect x="0" y="185" width="512" height="142" fill="#fff"/>
+  
+  <!-- Bottom stripe (fills to bottom edge) -->
+  <rect x="0" y="327" width="512" height="185" fill="#000"/>
+  
+  <!-- Stars -->
+  <path d="M113.8 213.3L123.4 242.0H152.9L128.9 259.0L138.5 287.7L113.8 270.7L89.1 287.7L98.7 259.0L74.7 242.0H104.2L113.8 213.3Z" fill="#CE1126"/>
+  <path d="M256.0 213.3L265.6 242.0H295.1L271.1 259.0L280.7 287.7L256.0 270.7L231.3 287.7L240.9 259.0L216.9 242.0H246.4L256.0 213.3Z" fill="#CE1126"/>
+  <path d="M398.2 213.3L407.8 242.0H437.3L413.3 259.0L422.9 287.7L398.2 270.7L373.5 287.7L383.1 259.0L359.1 242.0H388.6L398.2 213.3Z" fill="#CE1126"/>
 </svg>
