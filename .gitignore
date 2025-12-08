@@ -3,4 +3,5 @@ node_modules
 vendor
 phpunit.xml
 .phpunit.result.cache
-package-lock.json.DS_Store
+package-lock.json
+.DS_Store
