@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="flag-icons-mm" viewBox="0 0 640 480">
+  <rect x="0" y="240" width="640" height="240" fill="#006B3F"/>
+  
+  <rect x="0" y="0" width="320" height="240" fill="#241D6F"/>
+  
+  <rect x="320" y="0" width="320" height="240" fill="#D22323"/>
+  
+  <polygon fill="#fff" points="160,45 185.7,101.9 245.1,101.9 196.7,139.5 214.3,196.4 160,158.9 105.7,196.4 123.3,139.5 74.9,101.9 134.3,101.9"/>
+</svg>
